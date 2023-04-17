@@ -1,0 +1,15 @@
+.sidebar{
+    background-color: #ddd;
+    padding: 20px;
+}
+.sidebar ul{
+    align-items: center;
+    justify-content: center;
+}
+.sidebar ul li{
+    margin-bottom: 20px;
+    margin: 15px;
+}
+.sidebar ul li a{
+    text-transform: capitalize;
+}

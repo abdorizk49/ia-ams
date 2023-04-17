@@ -1,0 +1,105 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Ahmed Mohamed",
+      "phone": "0123465798",
+      "email": "asd132@asd.com",
+      "image": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg",
+      "address": "4373, El Centro,CA."
+    },
+    {
+      "id": 2,
+      "name": "Alaa Abbas",
+      "phone": "0134679258",
+      "email": "qwe456@asd.com",
+      "image": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+      "address": "1562, El Ceratn,New."
+    },
+    {
+      "id": 3,
+      "name": "Fathy Yousef",
+      "phone": "01159357862",
+      "email": "zxc798@asd.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzHQv_th9wq3ivQ1CVk7UZRxhbPq64oQrg5Q&usqp=CAU",
+      "address": "9854, El Certo,En."
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Transactions #01",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "name": "Transactions #02",
+      "status": "Failed"
+    },
+    {
+      "id": 3,
+      "name": "Transactions #03",
+      "status": "Success"
+    }
+  ],
+  "newAccounts": [
+    {
+      "id": 1,
+      "name": "Ahmed Mohamed",
+      "phone": "0123465798",
+      "email": "asd132@asd.com",
+      "image": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg",
+      "address": "4373, El Centro,CA."
+    },
+    {
+      "id": 2,
+      "name": "Alaa Abbas",
+      "phone": "0134679258",
+      "email": "qwe456@asd.com",
+      "image": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+      "address": "1562, El Ceratn,New."
+    },
+    {
+      "id": 3,
+      "name": "Fathy Yousef",
+      "phone": "01159357862",
+      "email": "zxc798@asd.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzHQv_th9wq3ivQ1CVk7UZRxhbPq64oQrg5Q&usqp=CAU",
+      "address": "9854, El Certo,En."
+    }
+  ],
+  "auctions": [
+    {
+      "name": "iPhone 13 Pro",
+      "category": "Phones",
+      "description": "Apple iPhone 14 Pro Max (256 GB) - Gold",
+      "image": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_SX679_.jpg",
+      "price": "1050",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Egyptian Handmade",
+      "category": "Egyptian",
+      "price": "250",
+      "image": "https://yt3.googleusercontent.com/ytc/AL5GRJW0elqxQkGt5nqBdigmmyHc772pf8gx7ITaVBN1Yj0=s900-c-k-c0x00ffffff-no-rj",
+      "description": "Egyptian Handmade Porcelain Pharaonic King Anubis Sculpture (Cooper)"
+    },
+    {
+      "name": "Chair",
+      "category": "Throne",
+      "description": "Made of gold and encrusted with jewels, dedicated to the holidays",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyeK8K7b7vfjpm9mgxKvd_Bk2-o0QVeTj7lQ&usqp=CAU",
+      "price": "15000",
+      "id": 3
+    },
+    {
+      "name": "Coin",
+      "category": "Coins",
+      "description": "Antique Silver Coin - Hannabat King Parallel 1944",
+      "image": "https://m.media-amazon.com/images/I/71GkOK+20nL._AC_SL1486_.jpg",
+      "price": "100",
+      "id": 4
+    }
+  ]
+}
